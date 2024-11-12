@@ -5,4 +5,4 @@ from django.http import HttpResponse
 # Create your views here.
 
 def homepage(request):
-    return HttpResponse(" wow this is an <strong>awesome</strong> tutorial")
+    return HttpResponse(" wow hello this is an <strong>awesome</strong> tutorial")
